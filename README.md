@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on MERN project
-- 📫 How to reach me <a style="text-decoration:none;" href="https://www.linkedin.com/in/gaurav-verma-8b0778236/">LinkedIn</a>
+- 📫 How to reach me <a style="text-decoration:none; color:red;" href="https://www.linkedin.com/in/gaurav-verma-8b0778236/">LinkedIn</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
