@@ -1,69 +1,67 @@
-<h1 align="center">Hi 👋, I'm Gaurav Verma</h1>
-<h3 align="center">A passionate Web Developer currently diving into Next.js and MERN stack.</h3>
+# 👋 Hello, I'm Gaurav Verma
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vermagaur851&label=Profile%20views&color=0e75b6&style=flat" alt="vermagaur851" /> </p>
+**`Web Developer | Next.js Enthusiast | MERN Stack Explorer`**
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/vermagaur851?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/vermagaur851?label=Stars" alt="GitHub Stars">
-</p>
+I'm a passionate web developer constantly learning and building projects with the latest web technologies. My current focus is on mastering **Next.js** and collaborating on **MERN stack** projects.
 
-<p align="left">- 🌱 I’m currently learning **Next.js**</p>
+---
 
-<p align="left">- 👀 I’m interested in **Web Development**</p>
+### 🌱 What I'm Learning
+- **Next.js**
+- **Advanced React Concepts**
+- **Backend with Node.js & Express**
 
-<p align="left">- 💞️ I’m looking to collaborate on **MERN projects**</p>
+### 💼 Projects I'm Interested In
+- **MERN Stack Applications**
+- **Open Source Contributions**
+- **Collaborative Web Development**
 
-<p align="left">- 📫 How to reach me: <a href="https://www.linkedin.com/in/gaurav-verma-8b0778236/" target="_blank" style="color:red; text-decoration:none;">LinkedIn</a></p>
+### 📫 How to Reach Me
+- [**LinkedIn**](https://www.linkedin.com/in/gaurav-verma-8b0778236/) (Let's Connect!)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gaurav-verma-8b0778236/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav-verma" height="30" width="40" />
-  </a>
-</p>
+### 🛠️ My Tech Stack
 
-<hr>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### ⚡ GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vermagaur851&show_icons=true&locale=en" alt="vermagaur851" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vermagaur851&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vermagaur851&" alt="vermagaur851" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vermagaur851&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vermagaur851&show_icons=true&locale=en&layout=compact" alt="vermagaur851" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermagaur851&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=vermagaur851&theme=rogue" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-verma-8b0778236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
