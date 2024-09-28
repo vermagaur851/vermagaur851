@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Gaurav Verma
+# 👋 Hello, I'm Gaurav Kumar
 
 **`Web Developer | Next.js Enthusiast | MERN Stack Explorer`**
 
