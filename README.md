@@ -51,14 +51,6 @@ I'm a passionate web developer constantly learning and building projects with th
 
 ---
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vermagaur851&theme=rogue" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-verma-8b0778236/" target="_blank">
